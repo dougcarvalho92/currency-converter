@@ -66,14 +66,10 @@ Retorno (Ex):
 ```
 {
   "currency_data": {
-    "transacion_id": 6,
-    "user_id": "edea3ac6",
     "origin_currency": "BRL",
     "origin_value": 300.5,
     "destination_currency": "USD",
     "destination_value": 54.15,
-    "currency_tax": 0.180204461,
-    "updtime": "Sun, 27 Sep 2020 15:46:02 GMT"
   }
 }
 
