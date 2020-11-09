@@ -23,7 +23,7 @@
 #### 2.1 - Faça o clone desta aplicação no seu computador
 
 ```sh
-$ git clone
+$ git clone https://github.com/dougcarvalho92/currency-converter
 ```
 
 ### 2.2 - Execute o comando abaixo no terminal:
@@ -34,8 +34,7 @@ $ npm install
 
 ### 2.5 - Executar testes
 
-- Criação de usuário
-- Conversão de moedas, salvando dados no banco e retornando as informações.
+- Conversão de moedas.
 
 `Execute o comando abaixo`
 
