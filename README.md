@@ -23,7 +23,7 @@
 #### 2.1 - Faça o clone desta aplicação no seu computador
 
 ```sh
-$ git clone 
+$ git clone
 ```
 
 ### 2.2 - Execute o comando abaixo no terminal:
@@ -31,7 +31,6 @@ $ git clone
 ```sh
 $ npm install
 ```
-
 
 ### 2.5 - Executar testes
 
@@ -46,9 +45,7 @@ $ npm run test
 
 ## Endpoints:
 
-Heroku: #
-
-
+Heroku: em andamento
 
 ### /currency-convert
 
@@ -56,14 +53,11 @@ Heroku: #
 
 ```
 {
-	headers: {
-    authorization: edea3ac6,
-  },
-body:{
-	"origin_currency": "BRL",
-	"origin_value": 300.5,
-	"destination_currency": "USD"
-}
+  "body":{
+    "origin_currency": "BRL",
+    "origin_value": 300.5,
+    "destination_currency": "USD"
+  }
 }
 ```
 
